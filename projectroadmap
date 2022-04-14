@@ -1,0 +1,3 @@
+I found a python project in github that has a full inventory management system with a gui. It also has the ability to print invoice in .pdf format. 
+it uses tkinter. 
+I wish to add a varience system on top of this existing code that will show actual vs ideal inventory at the end of the day.
