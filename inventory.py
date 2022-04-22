@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import scrolledtext
 from tkinter import ttk
 import sqlite3
-from PIL import ImageTk, Image
 import os
 root = tk.Tk()
 root.title("Stock Management System")
